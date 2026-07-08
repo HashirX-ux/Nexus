@@ -117,6 +117,9 @@ Looks like I don't really need the resisotrs for my macropad:
 But I think I do need them for my RGB lights for the key switches.. 
 <img width="1280" height="787" alt="image" src="https://github.com/user-attachments/assets/64104622-7db5-4a7d-9a57-56be968ac55b" />
 <br>
+So the common resistors are 220 ohm and common caps are 100nF
+<br>
+nicen
 
 
 
