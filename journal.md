@@ -88,6 +88,7 @@ Now I am gonna research about Capacitors that are needed in my macropad:<br>
 Guess I don't need any caps at all except I think for my RGB lights.. 
 <img width="668" height="220" alt="image" src="https://github.com/user-attachments/assets/6b81a049-0ae2-4cf5-94ed-47b6cf714e22" />
 <br>
+<br>
 I do have to also add a RESET button on my schematic for my nicenano! to go bootloader mode for my ZMK configuration: 
 <img width="596" height="300" alt="image" src="https://github.com/user-attachments/assets/042947e2-6cb0-4fbf-ab41-e1a08d6ef0b5" />
 <br>
@@ -109,6 +110,14 @@ https://pcbsync.com/100nf-capacitor/
 https://learn.sparkfun.com/tutorials/capacitors/application-examples
 <br>
 <br> 
+Now I am gonna start researching about the resistors that I need for my macropad:<br>
+Looks like I don't really need the resisotrs for my macropad: 
+<img width="1280" height="895" alt="image" src="https://github.com/user-attachments/assets/ac9e9768-e35c-487c-990f-0c4995e6f68b" />
+<br>
+But I think I do need them for my RGB lights for the key switches.. 
+<img width="1280" height="787" alt="image" src="https://github.com/user-attachments/assets/64104622-7db5-4a7d-9a57-56be968ac55b" />
+<br>
+
 
 
 
