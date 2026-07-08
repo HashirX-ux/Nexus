@@ -87,12 +87,29 @@ So bascially a crystal tells how fast the chip processes but I don't really have
 Now I am gonna research about Capacitors that are needed in my macropad:<br>
 Guess I don't need any caps at all except I think for my RGB lights.. 
 <img width="668" height="220" alt="image" src="https://github.com/user-attachments/assets/6b81a049-0ae2-4cf5-94ed-47b6cf714e22" />
+<br>
 I do have to also add a RESET button on my schematic for my nicenano! to go bootloader mode for my ZMK configuration: 
 <img width="596" height="300" alt="image" src="https://github.com/user-attachments/assets/042947e2-6cb0-4fbf-ab41-e1a08d6ef0b5" />
+<br>
 I also need some decoupling caps that are gonna stablise the power supply across the circuit: 
 <img width="845" height="604" alt="image" src="https://github.com/user-attachments/assets/065d9483-65f8-483a-b7a9-f04a1c6cfcc1" />
 Fair Enough.. So I gotta maintain the power supply by at least adding one or more decoupling or bypass caps so that power accorss my Circuit stabilised in high and low voltages: 
 <img width="1252" height="938" alt="image" src="https://github.com/user-attachments/assets/62eba0c9-9000-4087-b2c0-f18d714bd843" />
+<br>
+Interesting.. 
+<img width="1209" height="397" alt="image" src="https://github.com/user-attachments/assets/1899def5-2314-4e6d-91fe-4053cd4f6a8d" />
+<br>
+Learned about a new concept called "impedance". Basically it refers to opposition a component or circuit offers to the AC: 
+<img width="897" height="128" alt="image" src="https://github.com/user-attachments/assets/28fb897f-9b7f-4c1b-bea7-7e0645a4dc39" />
+<br> 
+Best Wbsites I have visited to study about Decoupling capacitors and value of 100nF and why is it important and what significance this specific value holds.. : 
+<br>
+https://pcbsync.com/100nf-capacitor/
+<br>
+https://learn.sparkfun.com/tutorials/capacitors/application-examples
+<br>
+<br> 
+
 
 
 
