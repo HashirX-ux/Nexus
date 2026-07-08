@@ -60,6 +60,17 @@ The Schematic looks intimidating but it's simple .. I guess<br>
 Now I am gonna read some datasheets of the Diode (1N4148) specifically designed for macrpads and keybaords.. <br>
 So these are the Diodes I am gonna be using<br>
 <img width="1165" height="766" alt="image" src="https://github.com/user-attachments/assets/decdaf9b-7335-436c-9630-85f0572f6c47" />
+<br> 
+These diodes are really efficient for keebs and pads :D 
+<br>
+<br>
+Now I am gonna research about the USB-C device that I am gonna use in my macropad cuase I wanna make my prodcutivity macroapd boht wired and wireless sor for wired capability I am gonna have to use USB-C<br>
+<img width="801" height="525" alt="image" src="https://github.com/user-attachments/assets/18322748-b7d4-4a4d-bfff-fd65d3bbc1a9" />
+Gonna use USB 2.0 as it provides 480 mps and takes 5V with 500mA
+<img width="1119" height="559" alt="image" src="https://github.com/user-attachments/assets/4fd78748-73cf-4e6a-bef1-e8d8ea1f820e" />
+<br> 
+Best Guide to Study USB-C:<br> 
+https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029
 
 
 
