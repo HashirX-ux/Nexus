@@ -46,7 +46,10 @@ USB-C(Gonna make it wired also)
 Now I am gonna start researching about all the components one by one.. <br>
 1- nicenano!<br>
 Since nicenano has two versions I am gonna research about the latest one and use that.. <br>
-Gonna use the official nicenano documentation for research about nicenan
+Gonna use the official nicenano documentation for research about nicenan<br>
+https://nicekeyboards.com/docs/nice-nano/<br>
+This is how the nicenano pinouts look like: <br>
+<img width="1143" height="769" alt="image" src="https://github.com/user-attachments/assets/dc2c1f22-19a7-4527-88d7-5fce4af68154" />
 
 
 
