@@ -31,14 +31,21 @@ Since I am making a productivity macropad, I need to use such MCU that supports 
 <br>
 USB-C(Gonna make it wired also) 
 <br>
-4- Capacitors and Resistors for Maintainance for powersupply 
+4- Capacitors and Resistors for Maintainance for powersupply
 
-I am gonna add some customs also for my macropad. 
-1- OLED Display
 <br>
-2- RGB lights(WS2812B)
+> I am gonna add some customs also for my macropad.
+<br> 
+1- OLED Display (Gonna show its battery percentage and connected devices) 
 <br>
-3- Rotary Encoder(EC11)
+2- RGB lights(WS2812B) for Asthetics ifykyk
+<br>
+3- Rotary Encoder(EC11) No idea Why I am adding this (asthetics)
+<br> 
+<br>
+Now I am gonna start researching about all the components one by one.. <br>
+1- nicenano!<br>
+Since nicenano has two versions I am gonna research about the latest one and use that.. 
 
 
 
