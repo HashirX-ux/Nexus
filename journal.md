@@ -45,7 +45,8 @@ USB-C(Gonna make it wired also)
 <br>
 Now I am gonna start researching about all the components one by one.. <br>
 1- nicenano!<br>
-Since nicenano has two versions I am gonna research about the latest one and use that.. 
+Since nicenano has two versions I am gonna research about the latest one and use that.. <br>
+Gonna use the official nicenano documentation for research about nicenan
 
 
 
