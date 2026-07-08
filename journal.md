@@ -119,7 +119,9 @@ But I think I do need them for my RGB lights for the key switches..
 <br>
 So the common resistors are 220 ohm and common caps are 100nF
 <br>
-nicen
+nicenano! v2 gives the output login of 3.3V and take 5V from the USB input So i gotta be carefull before adding some resistors as they can limit the cuurent that is required by the RBG lights as they require much higher voltage(around 5V) so I only need to add like 1 resistors for every 2 RGB light to stablise the connection 
+<br>
+
 
 
 
