@@ -121,6 +121,13 @@ So the common resistors are 220 ohm and common caps are 100nF
 <br>
 nicenano! v2 gives the output login of 3.3V and take 5V from the USB input So i gotta be carefull before adding some resistors as they can limit the cuurent that is required by the RBG lights as they require much higher voltage(around 5V) so I only need to add like 1 resistors for every 2 RGB light to stablise the connection 
 <br>
+I also need a bulk Capacitor according to the lights I am gonna use which are RBG WS2812B
+<img width="1280" height="845" alt="image" src="https://github.com/user-attachments/assets/8a250b00-f2c4-4d53-bdda-21048b9c6153" />
+<br>
+This is gonna store the voltage when the line surges or drops.. Interesting: 
+<img width="1280" height="746" alt="image" src="https://github.com/user-attachments/assets/ca761cef-8dcf-46eb-8bdb-187afebd3420" />
+<br>
+
 
 
 
