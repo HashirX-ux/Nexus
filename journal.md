@@ -12,18 +12,35 @@ Nexus is a wireless 3x4 macropad built to optimize your workflow. It uses a nice
 ### 2026-07-07 - First Journal Entry
 
 **What I did today:**
-- Created the GitHub repository
-- Created this journal.md file
 
-**Learnings:**
-- Learned how to create files on GitHub
+I amn gonna start researching about my Macropad built for productivity named Nexus for it's components and elemensts. Since I have never created a macropad, It's gonna take a while.. 
 
-**Next Steps:**
-- Start working on the actual project
-- Write next journal entry tomorrow
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/c92d8ec6-ea53-4997-9dda-cd15de4c6364" />
 
----
+Since I am making a productivity macropad, I need to use such MCU that supports wireless bluetooth capability. From My research I think nicenano-v2 would be best for my macropad 
 
-## How to Use This Journal
-- Add new entries at the top (newest first)
-- Write after every work session
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/dd204836-b0dd-4d4f-a3cd-0fa7c93889fa" />
+<br>
+> So I have summarized all the necessary components for a macropad. 
+<br>
+1- MCU -> nicenano!-v2 (It acts as the brain of the macropad and controls most all the operations)
+<br>
+2- Diodes(1N4148)
+<br>
+3- Mechanical Switches -> Gonna use Kalih or Gateron Switches and probably will consider Cherry MX)
+<br>
+USB-C(Gonna make it wired also) 
+<br>
+4- Capacitors and Resistors for Maintainance for powersupply 
+
+I am gonna add some customs also for my macropad. 
+1- OLED Display
+<br>
+2- RGB lights(WS2812B)
+<br>
+3- Rotary Encoder(EC11)
+
+
+
+
+
