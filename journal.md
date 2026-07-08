@@ -80,8 +80,19 @@ Now I think I have gained enough info about USB-C, Moving to the next componentt
 Now I am gonna start Researching about the capacitors and the resistors that are required for macropad and are essential for the Power Management accross the PCB<br>
 Found a New component to research about: 
 <img width="1280" height="695" alt="image" src="https://github.com/user-attachments/assets/f7212ff8-13c4-4fc9-a217-878d114db894" />
-
-
+So bascially a crystal tells how fast the chip processes but I don't really have to build it since it comes pre-built with nicenano!-v2 chip so Im save :D:
+<img width="1280" height="679" alt="image" src="https://github.com/user-attachments/assets/087d0d21-26cb-4090-8855-de3aa72a6ce1" />
+<br>
+<br>
+Now I am gonna research about Capacitors that are needed in my macropad:<br>
+Guess I don't need any caps at all except I think for my RGB lights.. 
+<img width="668" height="220" alt="image" src="https://github.com/user-attachments/assets/6b81a049-0ae2-4cf5-94ed-47b6cf714e22" />
+I do have to also add a RESET button on my schematic for my nicenano! to go bootloader mode for my ZMK configuration: 
+<img width="596" height="300" alt="image" src="https://github.com/user-attachments/assets/042947e2-6cb0-4fbf-ab41-e1a08d6ef0b5" />
+I also need some decoupling caps that are gonna stablise the power supply across the circuit: 
+<img width="845" height="604" alt="image" src="https://github.com/user-attachments/assets/065d9483-65f8-483a-b7a9-f04a1c6cfcc1" />
+Fair Enough.. So I gotta maintain the power supply by at least adding one or more decoupling or bypass caps so that power accorss my Circuit stabilised in high and low voltages: 
+<img width="1252" height="938" alt="image" src="https://github.com/user-attachments/assets/62eba0c9-9000-4087-b2c0-f18d714bd843" />
 
 
 
