@@ -71,6 +71,16 @@ Gonna use USB 2.0 as it provides 480 mps and takes 5V with 500mA
 <br> 
 Best Guide to Study USB-C:<br> 
 https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029
+<br>
+Looks Like I am cooked :((
+<img width="313" height="580" alt="image" src="https://github.com/user-attachments/assets/25e43fd6-6c39-4b26-8855-9b21de5d169c" />
+Now I think I have gained enough info about USB-C, Moving to the next componentttttttttt.
+<br>
+<br>
+Now I am gonna start Researching about the capacitors and the resistors that are required for macropad and are essential for the Power Management accross the PCB<br>
+Found a New component to research about: 
+<img width="1280" height="695" alt="image" src="https://github.com/user-attachments/assets/f7212ff8-13c4-4fc9-a217-878d114db894" />
+
 
 
 
