@@ -50,6 +50,19 @@ Gonna use the official nicenano documentation for research about nicenan<br>
 https://nicekeyboards.com/docs/nice-nano/<br>
 This is how the nicenano pinouts look like: <br>
 <img width="1143" height="769" alt="image" src="https://github.com/user-attachments/assets/dc2c1f22-19a7-4527-88d7-5fce4af68154" />
+<br>
+<br> 
+So I gotta use ZMK firmware for my macropad since its wireless via bluetooth capability.. <br>
+The Schematic looks intimidating but it's simple .. I guess<br>
+<img width="1220" height="753" alt="image" src="https://github.com/user-attachments/assets/1e21c9e7-f54f-4fe3-bd53-e7b4149902f0" />
+<br>
+<br>
+Now I am gonna read some datasheets of the Diode (1N4148) specifically designed for macrpads and keybaords.. <br>
+So these are the Diodes I am gonna be using<br>
+<img width="1165" height="766" alt="image" src="https://github.com/user-attachments/assets/decdaf9b-7335-436c-9630-85f0572f6c47" />
+
+
+
 
 
 
