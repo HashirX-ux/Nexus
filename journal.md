@@ -145,7 +145,17 @@ So the EC11 Rotary Encoder uses DC voltage of 3.3V which is perfect for my nicen
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/952033df-83b5-465a-9848-235f9204eec7" />
 <br>
 <br> 
-Now I am gonna start working on the KeySwitches of ny macropad: 
+Now I am gonna start working on the KeySwitches of ny macropad:<br>
+One of the best Guides I have read for the key  switches
+https://www.theremingoat.com/blog/beginners-guide
+<br>
+So this is the Cherry MX switch. Looks pretty fine to me as it also metions that this key switch makes that "click" sound when you clikc it so I guess it's pretty cool :D
+<img width="779" height="783" alt="image" src="https://github.com/user-attachments/assets/1726e908-4fa0-49a8-bc13-ea4937ba0186" />
+<br>
+It seems pretty tempting to use Cherry MX keys.
+<img width="889" height="498" alt="image" src="https://github.com/user-attachments/assets/17e42081-38cf-44eb-8cbd-87d12f759894" />
+<br>
+
 
 
 
