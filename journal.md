@@ -273,7 +273,8 @@ Guess I am done with the USB-C configuration and Now I am gonna move to my next 
 <br>
 Now with that being said I have somehow confiured my rotary encoder and have connected it to my Microcontroller and Now what it is gonna do is send signals to my macropad whenther it is getting pulled clockwise and will tell the microcontroller which in this case is nicenano! v2 to react in accordance to those signals 
 <img width="478" height="240" alt="image" src="https://github.com/user-attachments/assets/5aab1e75-8d15-4958-9c47-51744d9859b7" />
-
+<br> 
+Now I am gonna add a RESET switch and what it will gonna do is to make the Microcontroller, which in this case is nicenano, enter in a bootloader mode so that you can Literally drag and frop your ZMK firmware file in the USB device of the microcontrolle which will show up when it enters in the boot loader mode.. 
 
 
 
