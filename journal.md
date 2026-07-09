@@ -240,6 +240,17 @@ I Found the official hackclub's guide on designing a hackapad (Don't even know w
 <br>
 https://hackpad-v2-backup.pages.dev/guide#bottom
 <br>
+Since I am building a wired and wireless macropad I am gonna be using ZMK firmware for my macropad even though I have no idea what that even is in the first place So gonna research aobout it.. Wish me luck.. gang..
+<br>
+The ZMK docomentation is really helpfull for this :D
+<br>
+https://zmk.dev/docs/hardware
+<br>
+This guide is also really helpgull. Currently reading it ....
+<br>
+https://medium.com/@Myphis/zmk-firmware-unleashing-the-power-of-keyboard-customization-ed9fa9f8468e
+<br>
+
 
 
 
