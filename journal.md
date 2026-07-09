@@ -203,8 +203,13 @@ https://github.com/imchipwood/dumbpad
 Found about these low profile switches .. Don't know what do they even do..
 <img width="1218" height="735" alt="image" src="https://github.com/user-attachments/assets/b21c05ed-1498-4f29-80e9-f5f9597cb0b9" />
 <br>
-
-
+12C devices are quite interesting :D
+<img width="886" height="340" alt="image" src="https://github.com/user-attachments/assets/49943d9b-fe4d-4654-80d3-0911100e5d35" />
+<br>
+A really good guide reguarding OLED and 12 protocol explanation..
+<br>
+https://blog.tinkercademy.com/deep-dive-into-the-i2c-oled-413fee46ada1
+<br>
 
 
 
