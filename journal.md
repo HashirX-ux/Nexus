@@ -234,7 +234,12 @@ I also found a video of this incredble Guy and he bascially gave a full tutorial
 <br>
 https://youtu.be/egOOHS-34-c?si=lpAW9fYHbgnp78mD
 <br>
-
+I think fusion 360 is currently the best 3d case software out there cause I have researched a lot on the 3d case for the macropad and Its showing me a fusion 360 tutorial every single time.. 
+<br>
+I Found the official hackclub's guide on designing a hackapad (Don't even know what that is) 
+<br>
+https://hackpad-v2-backup.pages.dev/guide#bottom
+<br>
 
 
 
