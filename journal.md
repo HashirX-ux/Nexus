@@ -185,7 +185,16 @@ https://medium.com/@timowielink/how-to-build-a-macropad-d5a154311c4c
 The difference is I am gonna use a nicenano!-v2 microcontroller instead of ESP-32 MCU so I think there will be places Where I am gonna get stuck on This guide but let's hope for the best. :D
 <br>
 <br> 
-Shoot.. I forgot to research about the OLED I am gonna use on my macropad. Lemme get that real quick:<br>
+Shoot.. I forgot to research about the OLED I am gonna use on my macropad. Lemme get that real quick:
+<br>
+I researched about which OLED to use and I came accross an OLED Which was also by nicenano! called niceview! and it seems pretty interesting since I have the same Microcontroller and as well as its OLED screen which it perfectlly suits.
+<br>
+https://nicekeyboards.com/docs/nice-view/pinout-schematic
+<br>
+This is the device I am planning to use as my OLED :D
+<img width="740" height="850" alt="image" src="https://github.com/user-attachments/assets/9ec44fca-232a-47b0-b887-f6d7364735fe" />
+<br>
+
 
 
 
