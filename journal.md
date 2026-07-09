@@ -266,8 +266,13 @@ Now I am gonna start building the USB-C 2.0 16P schematic on the KiCad and it ha
 https://nicekeyboards.com/docs/nice-nano/pinout-schematic
 <br>
 I still can't figure out the function of the CC1 and CC2 pins of the USB-C 2.0 :((
+<img width="1012" height="502" alt="image" src="https://github.com/user-attachments/assets/daafda54-2858-4306-97f6-9187631b868f" />
 <br>
-
+Guess I am done with the USB-C configuration and Now I am gonna move to my next component..
+<img width="901" height="755" alt="image" src="https://github.com/user-attachments/assets/8e3e9b22-7350-4374-8049-e2fb6a73b6c1" />
+<br>
+Now with that being said I have somehow confiured my rotary encoder and have connected it to my Microcontroller and Now what it is gonna do is send signals to my macropad whenther it is getting pulled clockwise and will tell the microcontroller which in this case is nicenano! v2 to react in accordance to those signals 
+<img width="478" height="240" alt="image" src="https://github.com/user-attachments/assets/5aab1e75-8d15-4958-9c47-51744d9859b7" />
 
 
 
