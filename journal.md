@@ -168,6 +168,11 @@ Since I am also using the LED lights which is gonna take more power so I can't u
 <img width="951" height="414" alt="image" src="https://github.com/user-attachments/assets/5fd4a0ae-7cde-4315-b2a9-afed9157702e" />
 <br>
 Hence I am gonna use a 1500mAh battery for my DIY- Macropad. that is gonna help me maintain the electricty in the macropad when The bluetooth wireless capability is turned on .. 
+<br>
+This guide is really helpfull as it really helped to understand How schematics work and How I should design my own custom PCB and macropad :D. I didn't read it full though but gonna read it cuz its describes how pcb works and how to design their schematics :D<br>
+https://github.com/ruiqimao/keyboard-pcb-guide#schematics
+<br>
+
 
 
 
