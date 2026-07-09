@@ -160,6 +160,14 @@ Although Cherry MX keys looks a really good and reasonable choice, I am still go
 I think Kalih switches are also a really great Option to use but I gotta do a a liitle more research but I think i am considering to use Kailh swutches for my Macropad cause I think they look a little bit more beautifull than cheryy for some reason especially the kailh red switch is really attractive to use to I think I am gonna consider to use Kailh Switches and I have planned to use 12-key switches for my macropad and the matrix I am gonna use will be 3 x 4 :D
 <br>
 <br> 
+Now I am gonna research about the battery that I am gonna use in my DIY-Macropad and for that I am gonna use nicenano! official documentation cause the have specified which battery to use to the Microcontroller.. 
+<br>
+https://nicekeyboards.com/docs/nice-nano/
+<br>
+Since I am also using the LED lights which is gonna take more power so I can't use the battery given in this documentation: 
+<img width="951" height="414" alt="image" src="https://github.com/user-attachments/assets/5fd4a0ae-7cde-4315-b2a9-afed9157702e" />
+<br>
+Hence I am gonna use a 1500mAh battery for my DIY- Macropad. that is gonna help me maintain the electricty in the macropad when The bluetooth wireless capability is turned on .. 
 
 
 
