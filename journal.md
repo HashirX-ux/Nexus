@@ -194,6 +194,9 @@ https://nicekeyboards.com/docs/nice-view/pinout-schematic
 This is the device I am planning to use as my OLED :D
 <img width="740" height="850" alt="image" src="https://github.com/user-attachments/assets/9ec44fca-232a-47b0-b887-f6d7364735fe" />
 <br>
+And this is the schematic of the niceview!: 
+<img width="1202" height="625" alt="image" src="https://github.com/user-attachments/assets/cbc058ca-d8c2-43be-b09c-0df8f501ca70" />
+<br>
 
 
 
