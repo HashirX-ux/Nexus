@@ -155,6 +155,10 @@ So this is the Cherry MX switch. Looks pretty fine to me as it also metions that
 It seems pretty tempting to use Cherry MX keys.
 <img width="889" height="498" alt="image" src="https://github.com/user-attachments/assets/17e42081-38cf-44eb-8cbd-87d12f759894" />
 <br>
+Although Cherry MX keys looks a really good and reasonable choice, I am still gona search gonna search for more good and those "clicky" sound keys as I am reallt OBSSESED with them.. 
+<br>
+I think Kalih switches are also a really great Option to use but I gotta do a ittle more research..
+<br>
 
 
 
