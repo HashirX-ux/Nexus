@@ -210,7 +210,16 @@ A really good guide reguarding OLED and 12 protocol explanation..
 <br>
 https://blog.tinkercademy.com/deep-dive-into-the-i2c-oled-413fee46ada1
 <br>
-
+Ok I might consider using an OLED of 0.96": 
+<img width="722" height="397" alt="image" src="https://github.com/user-attachments/assets/b1c6985b-8b78-422a-942a-3dabd69fe67f" />
+<br>
+I am gonna search for some routing tips and I think I have found a great website for that.
+<br>
+https://www.pcbway.com/blog/PCB_Design_Layout/Common_Rules_for_PCB_Routing_29d86598.html
+<br>
+Didn't knew that greater loop would cause more heat and radiation during the routing of the PCB..
+<img width="1110" height="868" alt="image" src="https://github.com/user-attachments/assets/cad690b7-f772-4a65-9033-6bff5e99ef23" />
+<br>
 
 
 
