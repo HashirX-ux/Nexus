@@ -258,7 +258,15 @@ So according to my summary QMK is for wired keyboards and ZMK is usually for wir
 So Today I am gonna create the schematic of my Nexus aka macropad and its gonna be fun hopefully and I have already Researched about all the components that I need to build the schematic and Now I have to just make the schematic and then I'll be done with the schematic part. I am gonna build me schematic on KiCad.. 
 <img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/3ae0c8e4-d65a-4cae-88ae-1148a80d8c06" />
 <br>
-
+I have created a keyboard type matrix for the macropad with a 3 x 4 matrix as I described earlier ny using a keyboard design guide from the resource https://www.nextpcb.com/blog/how-to-design-mechanical-keyboard-pcbs-with-kicad.. Looks cool to me. 
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/491050bf-41d6-4e37-a1d1-9f10fdeb6745" />
+<br>
+Now I am gonna start building the USB-C 2.0 16P schematic on the KiCad and it has a complete guide om how to set it up on the ncienano! official webiste and documentation so I am gonna read that real quick.. 
+<br>
+https://nicekeyboards.com/docs/nice-nano/pinout-schematic
+<br>
+I still can't figure out the function of the CC1 and CC2 pins of the USB-C 2.0 :((
+<br>
 
 
 
