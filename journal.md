@@ -141,6 +141,12 @@ So there are two rotary encoders am I am considering to use on of them.. One is 
 So this is the EC11 Rotary encoder: 
 <img width="513" height="464" alt="image" src="https://github.com/user-attachments/assets/bf4f9768-20b5-4f03-baa8-2093cda6c182" />
 <br>
+So the EC11 Rotary Encoder uses DC voltage of 3.3V which is perfect for my nicenano!-v2 MCU :D
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/952033df-83b5-465a-9848-235f9204eec7" />
+<br>
+<br> 
+Now I am gonna start working on the KeySwitches of ny macropad: 
+
 
 
 
