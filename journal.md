@@ -261,6 +261,7 @@ So Today I am gonna create the schematic of my Nexus aka macropad and its gonna 
 I have created a keyboard type matrix for the macropad with a 3 x 4 matrix as I described earlier ny using a keyboard design guide from the resource https://www.nextpcb.com/blog/how-to-design-mechanical-keyboard-pcbs-with-kicad.. Looks cool to me. 
 <img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/491050bf-41d6-4e37-a1d1-9f10fdeb6745" />
 <br>
+<br>
 Now I am gonna start building the USB-C 2.0 16P schematic on the KiCad and it has a complete guide om how to set it up on the ncienano! official webiste and documentation so I am gonna read that real quick.. 
 <br>
 https://nicekeyboards.com/docs/nice-nano/pinout-schematic
@@ -271,11 +272,19 @@ I still can't figure out the function of the CC1 and CC2 pins of the USB-C 2.0 :
 Guess I am done with the USB-C configuration and Now I am gonna move to my next component..
 <img width="901" height="755" alt="image" src="https://github.com/user-attachments/assets/8e3e9b22-7350-4374-8049-e2fb6a73b6c1" />
 <br>
+<br>
 Now with that being said I have somehow confiured my rotary encoder and have connected it to my Microcontroller and Now what it is gonna do is send signals to my macropad whenther it is getting pulled clockwise and will tell the microcontroller which in this case is nicenano! v2 to react in accordance to those signals 
 <img width="478" height="240" alt="image" src="https://github.com/user-attachments/assets/5aab1e75-8d15-4958-9c47-51744d9859b7" />
-<br> 
+<br>
+<br>
 Now I am gonna add a RESET switch and what it will gonna do is to make the Microcontroller, which in this case is nicenano, enter in a bootloader mode so that you can Literally drag and frop your ZMK firmware file in the USB device of the microcontrolle which will show up when it enters in the boot loader mode.. 
-
+<img width="391" height="229" alt="image" src="https://github.com/user-attachments/assets/f7f95ee7-bc0a-4f84-b2df-3b546c0c55af" />
+<br>
+Just Found another helpfull resource for the Reset button guide :D
+<br>
+https://binaryupdates.com/switch-with-8051-microcontroller/
+<br>
+<br>
 
 
 
