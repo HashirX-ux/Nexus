@@ -255,6 +255,9 @@ So according to my summary QMK is for wired keyboards and ZMK is usually for wir
 ### 2026-10-08 - Second Journal Entry
 
 **WHat I did Today:**
+So Today I am gonna create the schematic of my Nexus aka macropad and its gonna be fun hopefully and I have already Researched about all the components that I need to build the schematic and Now I have to just make the schematic and then I'll be done with the schematic part. I am gonna build me schematic on KiCad.. 
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/3ae0c8e4-d65a-4cae-88ae-1148a80d8c06" />
+<br>
 
 
 
