@@ -223,8 +223,13 @@ Didn't knew that greater loop would cause more heat and radiation during the rou
 So i gotta make smaller loops in my routing so that I coukd avoid ekectromagnetic interference and unwanted noise.. 
 <img width="1090" height="264" alt="image" src="https://github.com/user-attachments/assets/45cf2fb9-b0f2-49b1-a932-316d32e2d5fc" />
 <br>
-
-
+I've found that de coupling capacitors help in reducing the electromagnetic interferance by maintaining the noise to signal ratio in the PCB so it's really a good practice to add bunch of those :D
+and certainly 100nF is the best capacitor for balancing the pwoer in the PCB 
+<br>
+I also wanna learn about the 3D case design so I found an incredibally helpfull resouce to help me with that.. 
+<br>
+https://www.makerluis.com/step-by-step-guide-parametric-macro-pad-on-fusion-360/
+<br>
 
 
 
