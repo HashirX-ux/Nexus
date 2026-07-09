@@ -197,6 +197,13 @@ This is the device I am planning to use as my OLED :D
 And this is the schematic of the niceview!: 
 <img width="1202" height="625" alt="image" src="https://github.com/user-attachments/assets/cbc058ca-d8c2-43be-b09c-0df8f501ca70" />
 <br>
+This guy built a Macropad and open sources it:<br>
+https://github.com/imchipwood/dumbpad
+<br>
+Found about these low profile switches .. Don't know what do they even do..
+<img width="1218" height="735" alt="image" src="https://github.com/user-attachments/assets/b21c05ed-1498-4f29-80e9-f5f9597cb0b9" />
+<br>
+
 
 
 
