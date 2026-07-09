@@ -157,8 +157,10 @@ It seems pretty tempting to use Cherry MX keys.
 <br>
 Although Cherry MX keys looks a really good and reasonable choice, I am still gona search gonna search for more good and those "clicky" sound keys as I am reallt OBSSESED with them.. 
 <br>
-I think Kalih switches are also a really great Option to use but I gotta do a ittle more research..
+I think Kalih switches are also a really great Option to use but I gotta do a a liitle more research but I think i am considering to use Kailh swutches for my Macropad cause I think they look a little bit more beautifull than cheryy for some reason especially the kailh red switch is really attractive to use to I think I am gonna consider to use Kailh Switches and I have planned to use 12-key switches for my macropad and the matrix I am gonna use will be 3 x 4 :D
 <br>
+<br> 
+
 
 
 
