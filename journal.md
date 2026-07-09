@@ -175,6 +175,16 @@ https://github.com/ruiqimao/keyboard-pcb-guide#schematics
 I researched about pull-up resistors and seems like I don't to place any external pullup resistors case nicenano! is TOOO GOATED!!!!!!!!. You can literally configure the power supply from the ZMK :D<br>
 Here is the resource I used to read about the pullup resistors and it's really goated... :D<br>
 https://learn.sparkfun.com/tutorials/pull-up-resistors<br> 
+<br>
+<br>
+Since It's my firt time bulding a macropad so I am gonna read some of the guides on how to build that form absolute 00000000...
+<br>
+Found another guide on how to build a macropad form scratch. LET'S READDD<br>
+https://medium.com/@timowielink/how-to-build-a-macropad-d5a154311c4c
+<br>
+The difference is I am gonna use a nicenano!-v2 microcontroller instead of ESP-32 MCU so I think there will be places Where I am gonna get stuck on This guide but let's hope for the best. :D
+<br>
+
 
 
 
