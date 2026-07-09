@@ -184,6 +184,8 @@ https://medium.com/@timowielink/how-to-build-a-macropad-d5a154311c4c
 <br>
 The difference is I am gonna use a nicenano!-v2 microcontroller instead of ESP-32 MCU so I think there will be places Where I am gonna get stuck on This guide but let's hope for the best. :D
 <br>
+<br> 
+Shoot.. I forgot to research about the OLED I am gonna use on my macropad. Lemme get that real quick:<br>
 
 
 
