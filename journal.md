@@ -127,6 +127,20 @@ I also need a bulk Capacitor according to the lights I am gonna use which are RB
 This is gonna store the voltage when the line surges or drops.. Interesting: 
 <img width="1280" height="746" alt="image" src="https://github.com/user-attachments/assets/ca761cef-8dcf-46eb-8bdb-187afebd3420" />
 <br>
+THANK GODDD!!! IM SAVED.. I thought I would also need to build a voltage regulator for my macropad but I think I don't have to now :D
+<img width="1280" height="746" alt="image" src="https://github.com/user-attachments/assets/07f73de0-6c8e-4d21-a315-f21be29b67de" />
+<br>
+So the 330 ohms is the one I am targetting: 
+<img width="861" height="346" alt="image" src="https://github.com/user-attachments/assets/460c52d2-5c7f-4dc0-b401-5357ee74edc7" />
+<br>
+<br> 
+Now I am gonna research about the Rotary encoder I am gonna use for the macropad:<br>
+So there are two rotary encoders am I am considering to use on of them.. One is PEC11R and the other encoder is EC11. I have researched and most of the resources recommend using the EC11 for a DIY- macropad cause it's the most industry standard and commonly used for macropads..
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/aa83f025-bdfe-4004-9d70-befebb22676e" />
+<br>
+So this is the EC11 Rotary encoder: 
+<img width="513" height="464" alt="image" src="https://github.com/user-attachments/assets/bf4f9768-20b5-4f03-baa8-2093cda6c182" />
+<br>
 
 
 
