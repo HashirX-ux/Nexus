@@ -230,7 +230,10 @@ I also wanna learn about the 3D case design so I found an incredibally helpfull 
 <br>
 https://www.makerluis.com/step-by-step-guide-parametric-macro-pad-on-fusion-360/
 <br>
-
+I also found a video of this incredble Guy and he bascially gave a full tutorial on how one can design their own custom macropad case which is really helpfull. Hats off to this guy gng..
+<br>
+https://youtu.be/egOOHS-34-c?si=lpAW9fYHbgnp78mD
+<br>
 
 
 
