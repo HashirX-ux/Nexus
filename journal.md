@@ -252,6 +252,12 @@ https://medium.com/@Myphis/zmk-firmware-unleashing-the-power-of-keyboard-customi
 <br>
 So according to my summary QMK is for wired keyboards and ZMK is usually for wireless keyboards but ZMK can also be used for wired keyboards by having microcontrollers such as RP2040 wtc which I am not using for sure.. 
 
+### 2026-10-08 - Second Journal Entry
+
+**WHat I did Today:**
+
+
+
 
 
 
