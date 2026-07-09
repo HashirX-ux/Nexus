@@ -220,6 +220,9 @@ https://www.pcbway.com/blog/PCB_Design_Layout/Common_Rules_for_PCB_Routing_29d86
 Didn't knew that greater loop would cause more heat and radiation during the routing of the PCB..
 <img width="1110" height="868" alt="image" src="https://github.com/user-attachments/assets/cad690b7-f772-4a65-9033-6bff5e99ef23" />
 <br>
+So i gotta make smaller loops in my routing so that I coukd avoid ekectromagnetic interference and unwanted noise.. 
+<img width="1090" height="264" alt="image" src="https://github.com/user-attachments/assets/45cf2fb9-b0f2-49b1-a932-316d32e2d5fc" />
+<br>
 
 
 
