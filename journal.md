@@ -172,6 +172,9 @@ Hence I am gonna use a 1500mAh battery for my DIY- Macropad. that is gonna help 
 This guide is really helpfull as it really helped to understand How schematics work and How I should design my own custom PCB and macropad :D. I didn't read it full though but gonna read it cuz its describes how pcb works and how to design their schematics :D<br>
 https://github.com/ruiqimao/keyboard-pcb-guide#schematics
 <br>
+I researched about pull-up resistors and seems like I don't to place any external pullup resistors case nicenano! is TOOO GOATED!!!!!!!!. You can literally configure the power supply from the ZMK :D<br>
+Here is the resource I used to read about the pullup resistors and it's really goated... :D<br>
+https://learn.sparkfun.com/tutorials/pull-up-resistors<br> 
 
 
 
