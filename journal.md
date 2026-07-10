@@ -299,6 +299,12 @@ https://nicekeyboards.com/docs/nice-nano/
 I think this is the battery that I need to store my power.. 
 <img width="988" height="583" alt="image" src="https://github.com/user-attachments/assets/b429b571-f955-415b-877f-5091a1ea83b0" />
 <br>
+So I have used Conn_01x02 for my lithium battery and I also have set the capacity to 15500mAh which I think is decent for a macropad and I think it will makes my macropad atleast long lasting than those stupid Iphones(Saying that cause I can't afford one) 
+<img width="856" height="326" alt="image" src="https://github.com/user-attachments/assets/6cd1b0de-c434-47d8-b877-a59fe039c19a" />
+<br>
+For charging the battery I have used MCP73183-2-MC charger which is industry standard for Lithium-Ion batteries and It's also really easy to setup in the editing software which for me is KiCad :D
+<img width="867" height="547" alt="image" src="https://github.com/user-attachments/assets/080f54fc-fc78-498c-a39d-26861bd2f63d" />
+<br>
 
 
 
