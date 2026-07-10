@@ -292,6 +292,10 @@ So Instead of using the classis 0.96" OLED, I used 0.91" OLED cause I couldn't f
 I have aslo creatd 2 decoupling caps for power management and they bascially manage the input power and high voltages that comes in the boara and these actually play a really vital role on the board :D
 <img width="686" height="679" alt="image" src="https://github.com/user-attachments/assets/94b926ff-7eec-4228-bbc2-a0ff7cee6c58" />
 <br>
+Now I am gonna add power management by thr battery cause my macropad is also wireless and as well as wired so I have researched and read what kind of battery Do I need form the nicenano"s official documentationa and its lithiu-Ion battery with 3.7V:
+<br>
+https://nicekeyboards.com/docs/nice-nano/
+<br>
 
 
 
