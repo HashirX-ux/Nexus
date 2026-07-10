@@ -323,7 +323,15 @@ I also gotta add the key matrix on my nicenano! chip..
 <br>
 Its kinda hard but I am still figuring it out.. 
 <br>
-Now I am gonna add some RGB Lights for my macropad keys but I gotta find how can I do that and study the function of the each pin of the LED so that I can easily connect it to my keys :D
+Now I am gonna add some RGB Lights for my macropad keys but I gotta find how can I do that and study the function of the each pin of the LED so that I can easily connect it to my keys :D..
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/529e0291-a238-48e0-879a-cf8df4e91794" />
+So this is how an LED is designed gng.. I think I am learning some great great stufffffff.. its just an LED brooo. anyways..
+<img width="1278" height="1024" alt="image" src="https://github.com/user-attachments/assets/1d26198d-0e9e-462b-a455-64869e893c75" />
+<br>
+Done with the first Row gng. Now I gotta do 3 more rows so that it matches my matrix of 3 x 4. Then I'll have an LED for each of my key in the macropad and its gonna be dunn :D
+<img width="1280" height="652" alt="image" src="https://github.com/user-attachments/assets/fdb15be4-d89b-459e-9bf4-868978f4b26b" />
+<br>
+
 
 
 
