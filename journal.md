@@ -323,6 +323,7 @@ I also gotta add the key matrix on my nicenano! chip..
 <br>
 Its kinda hard but I am still figuring it out.. 
 <br>
+Now I am gonna add some RGB Lights for my macropad keys but I gotta find how can I do that and study the function of the each pin of the LED so that I can easily connect it to my keys :D
 
 
 
