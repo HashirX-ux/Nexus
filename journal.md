@@ -296,6 +296,9 @@ Now I am gonna add power management by thr battery cause my macropad is also wir
 <br>
 https://nicekeyboards.com/docs/nice-nano/
 <br>
+I think this is the battery that I need to store my power.. 
+<img width="988" height="583" alt="image" src="https://github.com/user-attachments/assets/b429b571-f955-415b-877f-5091a1ea83b0" />
+<br>
 
 
 
