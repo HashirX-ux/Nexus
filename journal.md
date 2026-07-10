@@ -348,6 +348,9 @@ After Debugging SOO many erors running ERC like a madman, I finaly have 0 ERRORS
 I still have 4 warnings but they dont matter gng.. hopefully
 <img width="345" height="186" alt="image" src="https://github.com/user-attachments/assets/cd521a2f-32b2-4c2f-b0e1-e47e97d7c811" />
 <br>
+Gonna start arranging ts gng.. Wish me luck ...
+<img width="1280" height="1010" alt="image" src="https://github.com/user-attachments/assets/91743dbc-0c29-4f21-9cc2-5529b2df4d9a" />
+<br>
 
 
 
