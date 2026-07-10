@@ -354,6 +354,9 @@ Gonna start arranging ts gng.. Wish me luck ...
 LOOKS SOOO CLEAN... YAYYAYAYAY
 <img width="1279" height="1024" alt="image" src="https://github.com/user-attachments/assets/04a2ee10-ad0f-4226-ad2e-8a6467cd4bd1" />
 <br>
+It Even Looks more clean since I have named every Single component in the schematic.. 
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/7afae4f7-5e52-46c7-a064-2f04b2e97ede" />
+<br>
 
 
 
