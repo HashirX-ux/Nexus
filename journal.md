@@ -289,6 +289,9 @@ https://binaryupdates.com/switch-with-8051-microcontroller/
 So Instead of using the classis 0.96" OLED, I used 0.91" OLED cause I couldn't find the symbol of the OLED 0.96" anywhere so I had to use OLED 0.91 but it's completely fine cause I guess 0.91" is more common among these DIY-macropads and I also cinfigured it in KiCad amd it's pretty simple :D
 <img width="644" height="583" alt="image" src="https://github.com/user-attachments/assets/9f4ad03a-61b2-49fb-90a1-3aa0e77c773b" />
 <br>
+I have aslo creatd 2 decoupling caps for power management and they bascially manage the input power and high voltages that comes in the boara and these actually play a really vital role on the board :D
+<img width="686" height="679" alt="image" src="https://github.com/user-attachments/assets/94b926ff-7eec-4228-bbc2-a0ff7cee6c58" />
+<br>
 
 
 
