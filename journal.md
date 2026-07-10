@@ -341,6 +341,13 @@ So I have also planned to add a buzzer so that it can also make those clicky sou
 <img width="989" height="477" alt="image" src="https://github.com/user-attachments/assets/d6b60f10-71ff-4bc0-9284-ba09ce58f3c7" />
 <br>
 So Now I am gonna configure my whole schematic and make it look a more good and managable.. 
+<br>
+After Debugging SOO many erors running ERC like a madman, I finaly have 0 ERRORS!!!!!!!!!!!!!!!!!!
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/95da2ffb-ff20-4ed6-aed0-fdc7c820dd8a" />
+<br>
+I still have 4 warnings but they dont matter gng.. hopefully
+<img width="345" height="186" alt="image" src="https://github.com/user-attachments/assets/cd521a2f-32b2-4c2f-b0e1-e47e97d7c811" />
+<br>
 
 
 
