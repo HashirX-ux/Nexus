@@ -321,6 +321,8 @@ Now I am gonna start Configuring out my MAIN BRAIN!!!! not literally I am talkin
 I also gotta add the key matrix on my nicenano! chip.. 
 <img width="746" height="656" alt="image" src="https://github.com/user-attachments/assets/aa329b38-99a6-4f3d-908a-02e5db9582df" />
 <br>
+Its kinda hard but I am still figuring it out.. 
+<br>
 
 
 
