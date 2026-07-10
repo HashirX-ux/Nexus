@@ -278,6 +278,7 @@ Now with that being said I have somehow confiured my rotary encoder and have con
 <br>
 <br>
 Now I am gonna add a RESET switch and what it will gonna do is to make the Microcontroller, which in this case is nicenano, enter in a bootloader mode so that you can Literally drag and frop your ZMK firmware file in the USB device of the microcontrolle which will show up when it enters in the boot loader mode.. 
+<br>
 <img width="391" height="229" alt="image" src="https://github.com/user-attachments/assets/f7f95ee7-bc0a-4f84-b2df-3b546c0c55af" />
 <br>
 Just Found another helpfull resource for the Reset button guide :D
