@@ -340,6 +340,7 @@ So I have made thhe RGB key matrix and it looks really good to me :D. Now what's
 So I have also planned to add a buzzer so that it can also make those clicky sounds to make the macropad more satisfyign and addictive to use. SO I am GONNA MAKE YOU AN ADDICT HAHAHAHA
 <img width="989" height="477" alt="image" src="https://github.com/user-attachments/assets/d6b60f10-71ff-4bc0-9284-ba09ce58f3c7" />
 <br>
+So Now I am gonna configure my whole schematic and make it look a more good and managable.. 
 
 
 
