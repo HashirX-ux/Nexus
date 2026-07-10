@@ -305,6 +305,9 @@ So I have used Conn_01x02 for my lithium battery and I also have set the capacit
 For charging the battery I have used MCP73183-2-MC charger which is industry standard for Lithium-Ion batteries and It's also really easy to setup in the editing software which for me is KiCad :D
 <img width="867" height="547" alt="image" src="https://github.com/user-attachments/assets/080f54fc-fc78-498c-a39d-26861bd2f63d" />
 <br>
+Nicenano! is super underated. I doon't even need a power regualtor to maintain my LED lights !!!!!!!!!!!!
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/0b524623-81c6-41fb-8fcf-a5eb2106848a" />
+<br>
 
 
 
