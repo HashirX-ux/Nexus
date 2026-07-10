@@ -311,6 +311,9 @@ Nicenano! is super underated. I doon't even need a power regualtor to maintain m
 Since my microcontroller which in this case is nicenano! outputs only 3.3V and my LEDs need like 5V of ouput voltage so I am gonna use a component which i found out which is 74AHCT123. This components bassically increases the voltage of the output 3.3 and makes it 5V and so its is really clear for my LEDs and I am gonna use this component: D
 <img width="351" height="357" alt="image" src="https://github.com/user-attachments/assets/57ccbe99-1de1-46ee-a675-fa1edb4d538e" />
 <br>
+I also need to place a decoupling cap for my LED for it to be stable :D
+
+
 
 
 
