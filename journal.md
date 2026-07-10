@@ -351,6 +351,9 @@ I still have 4 warnings but they dont matter gng.. hopefully
 Gonna start arranging ts gng.. Wish me luck ...
 <img width="1280" height="1010" alt="image" src="https://github.com/user-attachments/assets/91743dbc-0c29-4f21-9cc2-5529b2df4d9a" />
 <br>
+LOOKS SOOO CLEAN... YAYYAYAYAY
+<img width="1279" height="1024" alt="image" src="https://github.com/user-attachments/assets/04a2ee10-ad0f-4226-ad2e-8a6467cd4bd1" />
+<br>
 
 
 
