@@ -331,6 +331,16 @@ So this is how an LED is designed gng.. I think I am learning some great great s
 Done with the first Row gng. Now I gotta do 3 more rows so that it matches my matrix of 3 x 4. Then I'll have an LED for each of my key in the macropad and its gonna be dunn :D
 <img width="1280" height="652" alt="image" src="https://github.com/user-attachments/assets/fdb15be4-d89b-459e-9bf4-868978f4b26b" />
 <br>
+Donw with 2 ROWSSS
+<img width="1280" height="765" alt="image" src="https://github.com/user-attachments/assets/90d10518-3742-4724-bec7-1d1beac523ac" />
+<br>
+So I have made thhe RGB key matrix and it looks really good to me :D. Now what's gonna happen is my keys of the macropad will have their own RBG lightining for them to shine.. YAYAYAYA
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/dd2cacca-bf8e-4f73-8a75-a35c8afc8ff7" />
+<br>
+So I have also planned to add a buzzer so that it can also make those clicky sounds to make the macropad more satisfyign and addictive to use. SO I am GONNA MAKE YOU AN ADDICT HAHAHAHA
+<img width="989" height="477" alt="image" src="https://github.com/user-attachments/assets/d6b60f10-71ff-4bc0-9284-ba09ce58f3c7" />
+<br>
+
 
 
 
