@@ -360,6 +360,7 @@ It Even Looks more clean since I have named every Single component in the schema
 GUYSSS ... After 11 DEVASTATING HRS.. I HAVE FINALYYY COMPLETED MY SCHEMATIC!!!!!!!!!!! YAYAYAYAYAYA
 <img width="1280" height="981" alt="image" src="https://github.com/user-attachments/assets/c1ba7300-9b2f-4b4f-8da9-fe31e3a0881a" />
 <img width="1280" height="988" alt="image" src="https://github.com/user-attachments/assets/38b783ad-4250-4780-bdb2-e2094186b278" />
+<img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/d694bc06-c4ae-4463-9be8-2dd923d115bf" />
 
 
 
