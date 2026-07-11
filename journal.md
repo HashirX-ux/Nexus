@@ -361,8 +361,20 @@ GUYSSS ... After 11 DEVASTATING HRS.. I HAVE FINALYYY COMPLETED MY SCHEMATIC!!!!
 <img width="1280" height="981" alt="image" src="https://github.com/user-attachments/assets/c1ba7300-9b2f-4b4f-8da9-fe31e3a0881a" />
 <img width="1280" height="988" alt="image" src="https://github.com/user-attachments/assets/38b783ad-4250-4780-bdb2-e2094186b278" />
 <img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/d694bc06-c4ae-4463-9be8-2dd923d115bf" />
+<br>
+<br>
+### 2026-09-07 - First Journal Entry
 
-
+**What I did today:**
+So Today I am gonna design the PCB of my macropad on the KiCad PCB editor and Its gonna be tough as I can see the diagram looks realy rough and I have to arrange EVERY single component of the schematic on this PCB editor sheet.. 
+<img width="1280" height="936" alt="image" src="https://github.com/user-attachments/assets/b427bfbb-a4f7-4e64-b0ff-b4816d3d3df9" />
+<br> 
+I am gonna tsart by creating the keyboard matrix whohc consist of a push button of Kailh and RGB light and diodes and Caps of 100nF
+<img width="1280" height="989" alt="image" src="https://github.com/user-attachments/assets/2e35dd4a-a226-4afe-8e58-00856969f421" />
+<br>
+So I am Finally Done with the keyboard matrix gng.. It look good to me.. I mean it's simple but its my first macropad.. DONT JUDGE MEEEEE!!!
+<img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/dd5ee725-b9c3-4e80-b510-1cd086241d59" />
+<br>
 
 
 
