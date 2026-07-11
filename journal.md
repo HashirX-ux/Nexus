@@ -375,6 +375,10 @@ I am gonna tsart by creating the keyboard matrix whohc consist of a push button 
 So I am Finally Done with the keyboard matrix gng.. It look good to me.. I mean it's simple but its my first macropad.. DONT JUDGE MEEEEE!!!
 <img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/dd5ee725-b9c3-4e80-b510-1cd086241d59" />
 <br>
+MY FIRST MACROPAD DESIGN GANGGGGG!!!!!!!!!!!
+<img width="1280" height="962" alt="image" src="https://github.com/user-attachments/assets/a61ed151-56d6-440d-b22a-917e51936f9b" />
+<br>
+
 
 
 
