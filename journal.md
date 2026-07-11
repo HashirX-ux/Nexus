@@ -378,6 +378,9 @@ So I am Finally Done with the keyboard matrix gng.. It look good to me.. I mean 
 MY FIRST MACROPAD DESIGN GANGGGGG!!!!!!!!!!!
 <img width="1280" height="962" alt="image" src="https://github.com/user-attachments/assets/a61ed151-56d6-440d-b22a-917e51936f9b" />
 <br>
+Alomost done with the routing. I gotta route some more components and then I think I'll be done with the Riuting and then I am gonna do Design Rule check for my macropad and then FIX ALL the errors. So I think I have to invest like something around 5 hours more in it. It's taking sooooo long gng.. Wish me luck.. 
+<img width="1280" height="989" alt="image" src="https://github.com/user-attachments/assets/63689d83-b6dc-4b71-b7de-d462f759d9a0" />
+<br>
 
 
 
