@@ -357,6 +357,9 @@ LOOKS SOOO CLEAN... YAYYAYAYAY
 It Even Looks more clean since I have named every Single component in the schematic.. 
 <img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/7afae4f7-5e52-46c7-a064-2f04b2e97ede" />
 <br>
+GUYSSS ... After 11 DEVASTATING HRS.. I HAVE FINALYYY COMPLETED MY SCHEMATIC!!!!!!!!!!! YAYAYAYAYAYA
+<img width="1280" height="981" alt="image" src="https://github.com/user-attachments/assets/c1ba7300-9b2f-4b4f-8da9-fe31e3a0881a" />
+<img width="1280" height="988" alt="image" src="https://github.com/user-attachments/assets/38b783ad-4250-4780-bdb2-e2094186b278" />
 
 
 
