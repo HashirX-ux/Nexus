@@ -404,8 +404,10 @@ FINALLY I CHANGED THE AXISSS.. god it was hard. It took sooo much accuracy to re
 <img width="920" height="507" alt="image" src="https://github.com/user-attachments/assets/2f1b53f7-1446-4b53-b71b-21e2cdf24315" />
 <img width="951" height="535" alt="image" src="https://github.com/user-attachments/assets/36d3bcbf-40b2-4663-8b2b-090f4fade83d" />
 <br>
-
-
+Gonna Use this github repository for my Kailh hotswap switches.. It tool sooooooooooooooooooo much browsing to search fot this golden repositor. It has all the 3D models gng :D 
+<br>
+https://github.com/raulmoracode/Kiboar
+<br>
 
 
 
