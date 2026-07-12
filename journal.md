@@ -387,7 +387,12 @@ SOOO MANY ERRORSS!!!!!!!!!!!!!!!!!!
 AYAYAYAYAYAYAYAYAYA!!!!!!!!!!!
 <img width="1280" height="985" alt="image" src="https://github.com/user-attachments/assets/deb18f32-ea3b-42aa-aba0-0caceb0a7614" />
 <br>
-
+Bro SOMEHOW I have 19 WARNINGS EVENTHOUGH I did absolutly nothing and here we go.. This app ragebaiting me fr...
+****
+<br>
+All of this shoot just cause the components names are too "BIG" gng what the absolute hell 
+<img width="1280" height="990" alt="image" src="https://github.com/user-attachments/assets/756861c7-e0e7-49a1-96f0-f9aea407341a" />
+<br>
 
 
 
