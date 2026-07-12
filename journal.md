@@ -408,6 +408,9 @@ Gonna Use this github repository for my Kailh hotswap switches.. It tool soooooo
 <br>
 https://github.com/raulmoracode/Kiboar
 <br>
+FINALY DONE WITH THE PCB!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+<img width="1280" height="991" alt="image" src="https://github.com/user-attachments/assets/2d725ca3-5a06-489f-a87b-ea13b0b34d73" />
+<br>
 
 
 
