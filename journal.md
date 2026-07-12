@@ -400,6 +400,10 @@ https://github.com/raulmoracode/Kiboar
 UHHH .. HELLO????
 <img width="807" height="455" alt="image" src="https://github.com/user-attachments/assets/4988f2be-41a4-4d20-a3ef-032e66e4c32d" />
 <br>
+FINALLY I CHANGED THE AXISSS.. god it was hard. It took sooo much accuracy to reach this lvl..
+<img width="920" height="507" alt="image" src="https://github.com/user-attachments/assets/2f1b53f7-1446-4b53-b71b-21e2cdf24315" />
+<img width="951" height="535" alt="image" src="https://github.com/user-attachments/assets/36d3bcbf-40b2-4663-8b2b-090f4fade83d" />
+<br>
 
 
 
