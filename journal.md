@@ -397,7 +397,9 @@ I found github repository where all the necessary 3d models of keyboards.. IT'S 
 <br>
 https://github.com/raulmoracode/Kiboar
 <br>
-
+UHHH .. HELLO????
+<img width="807" height="455" alt="image" src="https://github.com/user-attachments/assets/4988f2be-41a4-4d20-a3ef-032e66e4c32d" />
+<br>
 
 
 
