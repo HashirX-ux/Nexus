@@ -411,6 +411,13 @@ https://github.com/raulmoracode/Kiboar
 FINALY DONE WITH THE PCB!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 <img width="1280" height="991" alt="image" src="https://github.com/user-attachments/assets/2d725ca3-5a06-489f-a87b-ea13b0b34d73" />
 <br>
+<br>
+### Second Journal Entry  2026-11-12
+
+** What I did Today: **
+So today I am gonna design my 3D case of my Macropad and I am gonna do that by using fusion 360 cause I have used it before and I know more than the basics so It should be easy.. WISH ME LUCK BOYSS.. 
+<img width="1280" height="989" alt="image" src="https://github.com/user-attachments/assets/5dcd1a5c-6cd5-4e31-9cf0-bc53fc829507" />
+<br>
 
 
 
