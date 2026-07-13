@@ -418,6 +418,7 @@ FINALY DONE WITH THE PCB!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 So today I am gonna design my 3D case of my Macropad and I am gonna do that by using fusion 360 cause I have used it before and I know more than the basics so It should be easy.. WISH ME LUCK BOYSS.. 
 <img width="1280" height="989" alt="image" src="https://github.com/user-attachments/assets/5dcd1a5c-6cd5-4e31-9cf0-bc53fc829507" />
 <br>
+So I Just created a 3d modela reference and so far it looks good to me 
 
 
 
