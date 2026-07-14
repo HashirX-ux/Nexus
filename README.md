@@ -53,6 +53,24 @@ This project is in the **research and design phase**. Component selection is don
 
 ---
 
+## Repository Structure
+
+```
+Nexus/
+├── cad/          # Fusion 360 case files (.f3d / .step)
+├── pcb/          # KiCad source: .kicad_pro, .kicad_sch, .kicad_pcb
+├── firmware/     # ZMK shield + keymap
+├── Gerber.zip    # Manufacturing files for JLCPCB
+├── Nexus-BOM.csv # Bill of materials (parts + links)
+├── journal.md    # Full build log / component research
+└── README.md
+```
+
+Organized per Hack Club's [Hardware Codex shipping guide](https://codex.hackclub.com/shipping/101/) — source files and manufacturing files are kept separate so the project's easy to replicate.
+
+> Want to inspect the PCB without opening KiCad? View it directly in the browser via KiCanvas:
+> [![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?github=https://github.com/HashirX-ux/Nexus/tree/main/pcb)
+
 ---
 
 ## Build Log
@@ -74,15 +92,35 @@ The full day-by-day research process — component tradeoffs, datasheets referen
 ## How to Build
 
 ### 1. Order the PCB
+
 1. Go to [JLCPCB](https://jlcpcb.com)
-2. Upload `Gerber.zip`
+2. Upload [`Gerber.zip`](./Gerber.zip)
 3. Settings: 2-layer, FR-4, 1.6mm, HASL or ENIG
+4. Order your parts separately using [`Nexus-BOM.csv`](./Nexus-BOM.csv) as your shopping list (DigiKey / LCSC / AliExpress all work)
 
-### 2. Flash Firmware
-- Follow ZMK instructions in the `firmware/` folder (or see `journal.md`)
+### 2. Print the case
 
-### 3. Print the Case
-- Use the files in `cad/` folder (print `.stl` or open `.f3d` in Fusion 360)
+1. Open [`cad/`](./cad) — either print the `.stl` directly, or open the `.f3d` in Fusion 360 if you want to tweak dimensions first
+2. Print settings: 0.2mm layer height, ~20% infill is plenty for a desk macropad
+3. Test-fit the plate before soldering anything — easier to reprint now than after
+
+### 3. Assemble
+
+1. Solder the nice!nano v2, diodes, resistors, and support components per the [`pcb/`](./pcb) schematic
+2. Solder in the hot-swap sockets, then press-fit your switches — no soldering needed for those
+3. Wire up the OLED, rotary encoder, and RGB chain per the pin assignments in [`journal.md`](./journal.md)
+4. Seat the assembled PCB into the printed case
+
+### 4. Flash the firmware
+
+1. Follow the ZMK build instructions in [`firmware/`](./firmware) (shield config + keymap)
+2. Double-tap the reset button to drop the nice!nano into UF2 bootloader mode
+3. Drag and drop the compiled `.uf2` firmware file onto the drive that appears
+4. Pair over Bluetooth, or plug in via USB-C for wired mode
+
+### 5. You're done
+
+Flip it over, admire the per-key RGB, and start binding macros. If something's off, [`journal.md`](./journal.md) has the full reasoning behind every part choice — it's usually faster to check there than to re-derive it from scratch.
 
 ---
 
