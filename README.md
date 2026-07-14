@@ -53,20 +53,6 @@ This project is in the **research and design phase**. Component selection is don
 
 ---
 
-## Repository Structure
-
-```
-Nexus/
-├── pcb/                  # KiCad schematic + PCB design
-├── cad/                  # Fusion 360 case files (.f3d + .step)
-├── firmware/             # ZMK shield & keymap
-├── Gerber.zip            # Manufacturing files for JLCPCB
-├── Nexus-BOM.csv         # Bill of Materials
-├── journal.md            # Detailed build log
-├── README.md
-└── LICENSE
-```
-
 ---
 
 ## Build Log
