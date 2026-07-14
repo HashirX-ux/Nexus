@@ -252,9 +252,176 @@ https://medium.com/@Myphis/zmk-firmware-unleashing-the-power-of-keyboard-customi
 <br>
 So according to my summary QMK is for wired keyboards and ZMK is usually for wireless keyboards but ZMK can also be used for wired keyboards by having microcontrollers such as RP2040 wtc which I am not using for sure.. and I guess this is all I have to my today's journal and I am gonna write the next journal entry Tommorow :D
 
+### 2026-10-08 - Second Journal Entry
 
+**WHat I did Today:**
+So Today I am gonna create the schematic of my Nexus aka macropad and its gonna be fun hopefully and I have already Researched about all the components that I need to build the schematic and Now I have to just make the schematic and then I'll be done with the schematic part. I am gonna build me schematic on KiCad.. 
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/3ae0c8e4-d65a-4cae-88ae-1148a80d8c06" />
+<br>
+I have created a keyboard type matrix for the macropad with a 3 x 4 matrix as I described earlier ny using a keyboard design guide from the resource https://www.nextpcb.com/blog/how-to-design-mechanical-keyboard-pcbs-with-kicad.. Looks cool to me. 
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/491050bf-41d6-4e37-a1d1-9f10fdeb6745" />
+<br>
+<br>
+Now I am gonna start building the USB-C 2.0 16P schematic on the KiCad and it has a complete guide om how to set it up on the ncienano! official webiste and documentation so I am gonna read that real quick.. 
+<br>
+https://nicekeyboards.com/docs/nice-nano/pinout-schematic
+<br>
+I still can't figure out the function of the CC1 and CC2 pins of the USB-C 2.0 :((
+<img width="1012" height="502" alt="image" src="https://github.com/user-attachments/assets/daafda54-2858-4306-97f6-9187631b868f" />
+<br>
+Guess I am done with the USB-C configuration and Now I am gonna move to my next component..
+<img width="901" height="755" alt="image" src="https://github.com/user-attachments/assets/8e3e9b22-7350-4374-8049-e2fb6a73b6c1" />
+<br>
+<br>
+Now with that being said I have somehow confiured my rotary encoder and have connected it to my Microcontroller and Now what it is gonna do is send signals to my macropad whenther it is getting pulled clockwise and will tell the microcontroller which in this case is nicenano! v2 to react in accordance to those signals 
+<img width="478" height="240" alt="image" src="https://github.com/user-attachments/assets/5aab1e75-8d15-4958-9c47-51744d9859b7" />
+<br>
+<br>
+Now I am gonna add a RESET switch and what it will gonna do is to make the Microcontroller, which in this case is nicenano, enter in a bootloader mode so that you can Literally drag and frop your ZMK firmware file in the USB device of the microcontrolle which will show up when it enters in the boot loader mode.. 
+<br>
+<img width="391" height="229" alt="image" src="https://github.com/user-attachments/assets/f7f95ee7-bc0a-4f84-b2df-3b546c0c55af" />
+<br>
+Just Found another helpfull resource for the Reset button guide :D
+<br>
+https://binaryupdates.com/switch-with-8051-microcontroller/
+<br>
+<br>
+So Instead of using the classis 0.96" OLED, I used 0.91" OLED cause I couldn't find the symbol of the OLED 0.96" anywhere so I had to use OLED 0.91 but it's completely fine cause I guess 0.91" is more common among these DIY-macropads and I also cinfigured it in KiCad amd it's pretty simple :D
+<img width="644" height="583" alt="image" src="https://github.com/user-attachments/assets/9f4ad03a-61b2-49fb-90a1-3aa0e77c773b" />
+<br>
+I have aslo creatd 2 decoupling caps for power management and they bascially manage the input power and high voltages that comes in the boara and these actually play a really vital role on the board :D
+<img width="686" height="679" alt="image" src="https://github.com/user-attachments/assets/94b926ff-7eec-4228-bbc2-a0ff7cee6c58" />
+<br>
+Now I am gonna add power management by thr battery cause my macropad is also wireless and as well as wired so I have researched and read what kind of battery Do I need form the nicenano"s official documentationa and its lithiu-Ion battery with 3.7V:
+<br>
+https://nicekeyboards.com/docs/nice-nano/
+<br>
+I think this is the battery that I need to store my power.. 
+<img width="988" height="583" alt="image" src="https://github.com/user-attachments/assets/b429b571-f955-415b-877f-5091a1ea83b0" />
+<br>
+So I have used Conn_01x02 for my lithium battery and I also have set the capacity to 15500mAh which I think is decent for a macropad and I think it will makes my macropad atleast long lasting than those stupid Iphones(Saying that cause I can't afford one) 
+<img width="856" height="326" alt="image" src="https://github.com/user-attachments/assets/6cd1b0de-c434-47d8-b877-a59fe039c19a" />
+<br>
+For charging the battery I have used MCP73183-2-MC charger which is industry standard for Lithium-Ion batteries and It's also really easy to setup in the editing software which for me is KiCad :D
+<img width="867" height="547" alt="image" src="https://github.com/user-attachments/assets/080f54fc-fc78-498c-a39d-26861bd2f63d" />
+<br>
+Nicenano! is super underated. I doon't even need a power regualtor to maintain my LED lights !!!!!!!!!!!!
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/0b524623-81c6-41fb-8fcf-a5eb2106848a" />
+<br>
+Since my microcontroller which in this case is nicenano! outputs only 3.3V and my LEDs need like 5V of ouput voltage so I am gonna use a component which i found out which is 74AHCT123. This components bassically increases the voltage of the output 3.3 and makes it 5V and so its is really clear for my LEDs and I am gonna use this component: D
+<img width="351" height="357" alt="image" src="https://github.com/user-attachments/assets/57ccbe99-1de1-46ee-a675-fa1edb4d538e" />
+<br>
+I also need to place a decoupling cap for my LED for it to be stable :D.. 
+<img width="466" height="686" alt="image" src="https://github.com/user-attachments/assets/b3cac68c-7744-4018-ba5e-d08778b686d0" />
+<br>
+<br> 
+Now I am gonna start Configuring out my MAIN BRAIN!!!! not literally I am talking about nicenano. I am gonna add all the new pins in the nicenano and then gonna configure it out.. 
+<img width="529" height="748" alt="image" src="https://github.com/user-attachments/assets/5519d6bc-6bd0-4bf3-9082-4250ea3e9ece" />
+<br>
+I also gotta add the key matrix on my nicenano! chip.. 
+<img width="746" height="656" alt="image" src="https://github.com/user-attachments/assets/aa329b38-99a6-4f3d-908a-02e5db9582df" />
+<br>
+Its kinda hard but I am still figuring it out.. 
+<br>
+Now I am gonna add some RGB Lights for my macropad keys but I gotta find how can I do that and study the function of the each pin of the LED so that I can easily connect it to my keys :D..
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/529e0291-a238-48e0-879a-cf8df4e91794" />
+So this is how an LED is designed gng.. I think I am learning some great great stufffffff.. its just an LED brooo. anyways..
+<img width="1278" height="1024" alt="image" src="https://github.com/user-attachments/assets/1d26198d-0e9e-462b-a455-64869e893c75" />
+<br>
+Done with the first Row gng. Now I gotta do 3 more rows so that it matches my matrix of 3 x 4. Then I'll have an LED for each of my key in the macropad and its gonna be dunn :D
+<img width="1280" height="652" alt="image" src="https://github.com/user-attachments/assets/fdb15be4-d89b-459e-9bf4-868978f4b26b" />
+<br>
+Donw with 2 ROWSSS
+<img width="1280" height="765" alt="image" src="https://github.com/user-attachments/assets/90d10518-3742-4724-bec7-1d1beac523ac" />
+<br>
+So I have made thhe RGB key matrix and it looks really good to me :D. Now what's gonna happen is my keys of the macropad will have their own RBG lightining for them to shine.. YAYAYAYA
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/dd2cacca-bf8e-4f73-8a75-a35c8afc8ff7" />
+<br>
+So I have also planned to add a buzzer so that it can also make those clicky sounds to make the macropad more satisfyign and addictive to use. SO I am GONNA MAKE YOU AN ADDICT HAHAHAHA
+<img width="989" height="477" alt="image" src="https://github.com/user-attachments/assets/d6b60f10-71ff-4bc0-9284-ba09ce58f3c7" />
+<br>
+So Now I am gonna configure my whole schematic and make it look a more good and managable.. 
+<br>
+After Debugging SOO many erors running ERC like a madman, I finaly have 0 ERRORS!!!!!!!!!!!!!!!!!!
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/95da2ffb-ff20-4ed6-aed0-fdc7c820dd8a" />
+<br>
+I still have 4 warnings but they dont matter gng.. hopefully
+<img width="345" height="186" alt="image" src="https://github.com/user-attachments/assets/cd521a2f-32b2-4c2f-b0e1-e47e97d7c811" />
+<br>
+Gonna start arranging ts gng.. Wish me luck ...
+<img width="1280" height="1010" alt="image" src="https://github.com/user-attachments/assets/91743dbc-0c29-4f21-9cc2-5529b2df4d9a" />
+<br>
+LOOKS SOOO CLEAN... YAYYAYAYAY
+<img width="1279" height="1024" alt="image" src="https://github.com/user-attachments/assets/04a2ee10-ad0f-4226-ad2e-8a6467cd4bd1" />
+<br>
+It Even Looks more clean since I have named every Single component in the schematic.. 
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/7afae4f7-5e52-46c7-a064-2f04b2e97ede" />
+<br>
+GUYSSS ... After 11 DEVASTATING HRS.. I HAVE FINALYYY COMPLETED MY SCHEMATIC!!!!!!!!!!! YAYAYAYAYAYA
+<img width="1280" height="981" alt="image" src="https://github.com/user-attachments/assets/c1ba7300-9b2f-4b4f-8da9-fe31e3a0881a" />
+<img width="1280" height="988" alt="image" src="https://github.com/user-attachments/assets/38b783ad-4250-4780-bdb2-e2094186b278" />
+<img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/d694bc06-c4ae-4463-9be8-2dd923d115bf" />
+<br>
+<br>
+### 2026-09-07 - First Journal Entry
 
+**What I did today:**
+So Today I am gonna design the PCB of my macropad on the KiCad PCB editor and Its gonna be tough as I can see the diagram looks realy rough and I have to arrange EVERY single component of the schematic on this PCB editor sheet.. 
+<img width="1280" height="936" alt="image" src="https://github.com/user-attachments/assets/b427bfbb-a4f7-4e64-b0ff-b4816d3d3df9" />
+<br> 
+I am gonna tsart by creating the keyboard matrix whohc consist of a push button of Kailh and RGB light and diodes and Caps of 100nF
+<img width="1280" height="989" alt="image" src="https://github.com/user-attachments/assets/2e35dd4a-a226-4afe-8e58-00856969f421" />
+<br>
+So I am Finally Done with the keyboard matrix gng.. It look good to me.. I mean it's simple but its my first macropad.. DONT JUDGE MEEEEE!!!
+<img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/dd5ee725-b9c3-4e80-b510-1cd086241d59" />
+<br>
+MY FIRST MACROPAD DESIGN GANGGGGG!!!!!!!!!!!
+<img width="1280" height="962" alt="image" src="https://github.com/user-attachments/assets/a61ed151-56d6-440d-b22a-917e51936f9b" />
+<br>
+Alomost done with the routing. I gotta route some more components and then I think I'll be done with the Riuting and then I am gonna do Design Rule check for my macropad and then FIX ALL the errors. So I think I have to invest like something around 5 hours more in it. It's taking sooooo long gng.. Wish me luck.. 
+<img width="1280" height="989" alt="image" src="https://github.com/user-attachments/assets/63689d83-b6dc-4b71-b7de-d462f759d9a0" />
+<br>
+SOOO MANY ERRORSS!!!!!!!!!!!!!!!!!!
+<img width="1280" height="987" alt="image" src="https://github.com/user-attachments/assets/2a7578fe-dc94-40f9-b842-11aac312a4c6" />
+<br>
+AYAYAYAYAYAYAYAYAYA!!!!!!!!!!!
+<img width="1280" height="985" alt="image" src="https://github.com/user-attachments/assets/deb18f32-ea3b-42aa-aba0-0caceb0a7614" />
+<br>
+Bro SOMEHOW I have 19 WARNINGS EVENTHOUGH I did absolutly nothing and here we go.. This app ragebaiting me fr...
+****
+<br>
+All of this shoot just cause the components names are too "BIG" gng what the absolute hell 
+<img width="1280" height="990" alt="image" src="https://github.com/user-attachments/assets/756861c7-e0e7-49a1-96f0-f9aea407341a" />
+<br>
+I found github repository where all the necessary 3d models of keyboards.. IT'S SOOO GOATEDDDD!!!!!!!!
+<br>
+https://github.com/raulmoracode/Kiboar
+<br>
+UHHH .. HELLO????
+<img width="807" height="455" alt="image" src="https://github.com/user-attachments/assets/4988f2be-41a4-4d20-a3ef-032e66e4c32d" />
+<br>
+FINALLY I CHANGED THE AXISSS.. god it was hard. It took sooo much accuracy to reach this lvl..
+<img width="920" height="507" alt="image" src="https://github.com/user-attachments/assets/2f1b53f7-1446-4b53-b71b-21e2cdf24315" />
+<img width="951" height="535" alt="image" src="https://github.com/user-attachments/assets/36d3bcbf-40b2-4663-8b2b-090f4fade83d" />
+<br>
+Gonna Use this github repository for my Kailh hotswap switches.. It tool sooooooooooooooooooo much browsing to search fot this golden repositor. It has all the 3D models gng :D 
+<br>
+https://github.com/raulmoracode/Kiboar
+<br>
+FINALY DONE WITH THE PCB!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+<img width="1280" height="991" alt="image" src="https://github.com/user-attachments/assets/2d725ca3-5a06-489f-a87b-ea13b0b34d73" />
+<br>
+<br>
+### Second Journal Entry  2026-11-12
 
+** What I did Today: **
+So today I am gonna design my 3D case of my Macropad and I am gonna do that by using fusion 360 cause I have used it before and I know more than the basics so It should be easy.. WISH ME LUCK BOYSS.. 
+<img width="1280" height="989" alt="image" src="https://github.com/user-attachments/assets/5dcd1a5c-6cd5-4e31-9cf0-bc53fc829507" />
+<br>
+So I Just created a 3d modela reference and so far it looks good to me
+<br>
+Sorry forgot to journal this part but I made the layout and its pretty decent i guesss
+![Uploading image.png…]()
 
 
 
