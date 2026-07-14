@@ -1,0 +1,21 @@
+Component,Spec,Qty,Est. Unit Price (USD),Est. Line Total (USD),Notes,Where to Source
+MCU,nice!nano v2 (nRF52840),1,$14.00,$14.00,BLE wireless + USB-C wired; brain of the board,nicekeyboards.com / AliExpress clone
+Matrix diodes,1N4148 (or 1N4148W SMD),12,$0.03,$0.36,One per key; col2row direction per journal,LCSC / Mouser / AliExpress (packs of 100+)
+Mechanical switches,MX-compatible (Kailh / Gateron / Cherry MX -- TBD),12,$0.30,$3.60,Hot-swap so any 5-pin/3-pin MX switch works,Switch vendor of choice
+Hot-swap sockets,Kailh hot-swap (MX compatible),12,$0.10,$1.20,Sold in packs of 100+,LCSC / AliExpress
+Per-key RGB LEDs SK6812 Mini-E for lower profile),12,$0.20,$2.40,One per key; confirm footprint (5050 vs Mini-E) before ordering PCB,LCSC / AliExpress
+Rotary encoder,EC11 (with or without push switch),1,$0.60,$0.60,Confirm detents/resolution before finalizing keymap,LCSC / AliExpress
+OLED display,SSD1306 0.91" or 0.96" I2C (128x32 or 128x64),1,$2.50,$2.50,Shows battery % and connected device per journal,AliExpress / Amazon
+USB-C receptacle,16-pin SMD (e.g. GCT USB4105 or equivalent),1,$0.60,$0.60,For wired fallback mode,LCSC / AliExpress
+Reset button,SMD tactile switch 3x4mm,1,$0.05,$0.05,Needed to put nice!nano into bootloader mode,LCSC / AliExpress
+Decoupling capacitors,100nF ceramic (0603/0805),4,$0.02,$0.08,Power supply stabilization near MCU/OLED,LCSC / AliExpress
+Bulk capacitor,10uF ceramic or tantalum,1,$0.05,$0.05,Bulk decoupling for power rail,LCSC / AliExpress
+LED data line resistor,330-470 ohm (0603/0805),1,$0.02,$0.02,Series resistor on WS2812B data line,LCSC / AliExpress
+I2C pull-up resistors,4.7k-10k ohm (0603/0805),2,$0.02,$0.04,SDA/SCL pull-ups for OLED,LCSC / AliExpress
+Battery (optional -- wireless use),LiPo 3.7V 150-500mAh w/ JST PH2,1,$4.00,$4.00,Not yet confirmed in journal -- needed if running BLE untethered,AliExpress / Adafruit
+PCB fabrication,2-layer FR-4 1.6mm HASL,5 boards,$4.00,$20.00,Typical JLCPCB minimum order,JLCPCB / PCBWay
+Keycaps,"MX-compatible, 12-key set or pulled from a larger set",12,$0.30,$3.60,Blank or macro-labeled caps recommended,Any MX keycap vendor
+Screws,M3 x 6-8mm,8,$0.05,$0.40,Case assembly,Local hardware / AliExpress
+Standoffs,M3 x 4-6mm,4,$0.10,$0.40,Case assembly,Local hardware / AliExpress
+,,,,,,
+TOTAL (est.),,,,~$53.90,Excludes case material/printing -- add once case design is finalized,
