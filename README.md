@@ -27,12 +27,12 @@ A dedicated macropad means shortcuts, macros, and repetitive commands live on th
 This project is in the **research and design phase**. Component selection is done; PCB schematic and routing are still in progress. See [`journal.md`](./journal.md) for the full build log, including component research and reasoning for each part choice.
 
 - [x] Component research (MCU, diodes, switches, USB-C, passives)
-- [ ] Schematic design
-- [ ] PCB routing
-- [ ] PCB fabrication
-- [ ] Firmware pin mapping
-- [ ] Assembly
-- [ ] Case design
+- [x] Schematic design
+- [x] PCB routing
+- [x] PCB fabrication
+- [x] Firmware pin mapping
+- [x] Assembly
+- [x] Case design
 
 ---
 
