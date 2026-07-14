@@ -57,17 +57,14 @@ This project is in the **research and design phase**. Component selection is don
 
 ```
 Nexus/
-├── LICENSE
+├── pcb/                  # KiCad schematic + PCB design
+├── cad/                  # Fusion 360 case files (.f3d + .step)
+├── firmware/             # ZMK shield & keymap
+├── Gerber.zip            # Manufacturing files for JLCPCB
+├── Nexus-BOM.csv         # Bill of Materials
+├── journal.md            # Detailed build log
 ├── README.md
-└── journal.md   # Build log: component research, decisions, reasoning
-```
-
-As the project progresses, this will likely grow to include:
-```
-├── pcb/         # KiCad schematic + PCB files
-├── firmware/    # ZMK shield config, keymap, overlay
-├── cad/         # Case design files
-└── BOM.csv      # Bill of materials
+└── LICENSE
 ```
 
 ---
@@ -85,6 +82,27 @@ The full day-by-day research process — component tradeoffs, datasheets referen
 3. Build and test ZMK firmware against the real pin assignments.
 4. Design and print/order the case.
 5. Assemble, flash, and pair.
+
+---
+
+## How to Build
+
+### 1. Order the PCB
+1. Go to [JLCPCB](https://jlcpcb.com)
+2. Upload `Gerber.zip`
+3. Settings: 2-layer, FR-4, 1.6mm, HASL or ENIG
+
+### 2. Flash Firmware
+- Follow ZMK instructions in the `firmware/` folder (or see `journal.md`)
+
+### 3. Print the Case
+- Use the files in `cad/` folder (print `.stl` or open `.f3d` in Fusion 360)
+
+---
+
+## BOM
+
+See [`Nexus-BOM.csv`](./Nexus-BOM.csv) for full component list with links.
 
 ---
 
